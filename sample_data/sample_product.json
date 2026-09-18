@@ -1,0 +1,175 @@
+{
+  "unique_key": "trn:tesco:product:uuid:46f97450-6b38-4cf6-b128-806146ed9a61",
+  "main": {
+    "uniqueKey": "trn:tesco:product:uuid:46f97450-6b38-4cf6-b128-806146ed9a61",
+    "gtin": "01507539005104",
+    "printedGtin": "1507539005104",
+    "gtinType": "GTIN13",
+    "tpnb": "116679957",
+    "tpnc": "116679957",
+    "tpna": "611084868",
+    "globalDescription": {
+      "values": [
+        { "language": "cs", "value": "DI.KALHOT DENIM CO" }
+      ]
+    },
+    "globalCustFriendlyDesc": {
+      "values": [
+        { "language": "cs", "value": "DI.KALHOT DENIM CO" }
+      ]
+    },
+    "tpnaGlobalDescription": {
+      "values": [
+        { "language": "cs", "value": "DI.KALHOT DENIM CO" }
+      ]
+    },
+    "createdDate": "2026-04-28 15:46:00",
+    "itemNumber": "116679957",
+    "description": "DI.KALHOT DENIM CO",
+    "brand": "MAYORAL",
+    "isOwnLabel": false,
+    "country": [
+      {
+        "code": "CZ",
+        "custFriendlyDesc": "DI.KALHOT DENIM CO",
+        "authorised": true,
+        "suspended": false,
+        "deactivated": false,
+        "epw": false,
+        "status": "storeReady"
+      }
+    ],
+    "countries": ["CZ"],
+    "tillDescription": "DI.KALHOT 12 10",
+    "selDescription": [
+      { "lineNo": 1, "description": "DI.KALHOT DENIM" },
+      { "lineNo": 2, "description": "CO" },
+      { "lineNo": 3, "description": "" }
+    ],
+    "baseDescription": [
+      { "lineNo": 1, "description": "" },
+      { "lineNo": 2, "description": "" },
+      { "lineNo": 3, "description": "" }
+    ],
+    "commercialHierarchy": {
+      "divisionCode": "40",
+      "divisionNumber": 40,
+      "divisionName": "Softlines",
+      "departmentCode": "40230",
+      "departmentNumber": 230,
+      "departmentName": "DS",
+      "sectionCode": "40230970",
+      "sectionNumber": 970,
+      "sectionName": "DS",
+      "classCode": "40230970275",
+      "classNumber": 275,
+      "className": "KIDS DS",
+      "subclassCode": "40230970275829",
+      "subclassNumber": 829,
+      "subclassName": "KD GirlCloth"
+    },
+    "rmsStatus": "Approved",
+    "drainedIndicator": false,
+    "productCharacteristics": {
+      "isFood": false,
+      "isDrink": false,
+      "storageType": "Ambient"
+    },
+    "lastModifiedTime": "2026-04-28 15:46:00",
+    "completeness": 3,
+    "IEflag": false,
+    "GBflag": false,
+    "THflag": false,
+    "primaryRefItemInd": "Y",
+    "eanRmsStatus": "Approved",
+    "globalBrand": {
+      "values": [
+        { "language": "en-gb", "value": "MAYORAL" }
+      ]
+    },
+    "globalQtyContents": {
+      "values": [
+        { "language": "en-gb", "value": { "quantity": 1, "quantityUom": "SNGL", "unitQty": "EACH" } }
+      ]
+    },
+    "HUFlag": false,
+    "CZFlag": true,
+    "PLFlag": false,
+    "SKFlag": false,
+    "CEFlag": false,
+    "MYFlag": false,
+    "updatedNumber": 1
+  },
+  "source": {
+    "brandInfo": [
+      { "brand": "MAYORAL", "source": "RMS" }
+    ],
+    "commercialHierarchyInfo": [
+      {
+        "divisionCode": "40",
+        "divisionNumber": 40,
+        "divisionName": "Softlines",
+        "departmentCode": "40230",
+        "departmentNumber": 230,
+        "departmentName": "DS",
+        "sectionCode": "40230970",
+        "sectionNumber": 970,
+        "sectionName": "DS",
+        "classCode": "40230970275",
+        "classNumber": 275,
+        "className": "KIDS DS",
+        "subclassCode": "40230970275829",
+        "subclassNumber": 829,
+        "subclassName": "KD GirlCloth",
+        "source": "RMS"
+      }
+    ],
+    "qtyContentsInfo": [
+      { "quantity": 1, "quantityUom": "SNGL", "unitQty": "EACH", "source": "RMS" }
+    ],
+    "globalBrandInfo": [
+      {
+        "values": [{ "language": "en-gb", "value": "MAYORAL" }],
+        "source": "RMS"
+      }
+    ],
+    "globalQtyContentsInfo": [
+      {
+        "values": [
+          { "language": "en-gb", "value": { "quantity": 1, "quantityUom": "SNGL", "unitQty": "EACH" } }
+        ],
+        "source": "RMS"
+      }
+    ],
+    "globalDescriptionInfo": [
+      {
+        "values": [{ "language": "cs", "value": "DI.KALHOT DENIM CO" }],
+        "source": "RMS"
+      }
+    ],
+    "gtinTypeInfo": [
+      { "gtinType": "GTIN13", "source": "RMS" }
+    ]
+  },
+  "attributes": {
+    "productAttributes": [
+      {
+        "source": "RMS",
+        "common": {
+          "merchandising_details": {
+            "weee_ind": { "name": "weee ind", "value": "no" }
+          },
+          "global_identifiers": {
+            "tariff_code": { "name": "tariff code", "value": "" }
+          },
+          "status": {
+            "orderable": { "name": "orderable", "value": "yes" },
+            "sellable": { "name": "sellable", "value": "yes" }
+          }
+        }
+      }
+    ],
+    "extnUpdatedNumber": 1,
+    "lastModifiedTime": "2026-04-28 15:46:00"
+  }
+}
